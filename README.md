@@ -24,7 +24,7 @@ I am planning to implement this app using a pre-trained model and tensorflow lit
 - Improve the dataset and start training models
 
 #### March 2019:
-- Intensive tetsing of app and releasing the beta version.
+- Intensive testing of app and releasing the beta version.
 
 #### April 2019
 - Deployment of the app after removing all the bugs found in beta program.
