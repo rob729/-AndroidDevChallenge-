@@ -3,7 +3,7 @@
 
 ### Tell us what your idea is.
 
-The idea is to develop an app which can help the visually impaired or old people in identifying the denomination of a currency they are having by giving a audio feedback to the user when they capture the photo of the currency from their mobile phone. The app will also show the details in the form of text which will be useful for partically blind people and people travelling to different countries to identify the denomination of a currency.
+The idea is to develop an app that can help the visually impaired or old people in identifying the denomination of a currency they are having by giving audio feedback to the user when they capture the photo of the currency from their mobile phone. The app will also show the details in the form of text which will be useful for partially blind people and people traveling to different countries to identify the denomination of a currency.
  
 
 ### Tell us how you plan on bringing it to life.
